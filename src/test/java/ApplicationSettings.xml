@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+    <URL>https://algoshack.net/</URL>
+    <APIURL/>
+    <BrowserType>Chrome</BrowserType>
+    <EnableDebugLog>False</EnableDebugLog>
+    <WebdriverPath>Na</WebdriverPath>
+    <PrintTextInConsole>False</PrintTextInConsole>
+    <ProjectName>V5 Automation 9</ProjectName>
+    <EnableScrenshotForSucess>True</EnableScrenshotForSucess>
+    <EnableScrenshotForFailure>True</EnableScrenshotForFailure>
+    <EnableEachStepScreenshot>False</EnableEachStepScreenshot>
+    <EnableVideoCaptureForSuccess>False</EnableVideoCaptureForSuccess>
+    <EnableVideoCaptureForFailure>False</EnableVideoCaptureForFailure>
+    <EnableCompareImage>False</EnableCompareImage>
+    <MaximumTimeInSecondsToWaitForControl>30</MaximumTimeInSecondsToWaitForControl>
+    <MaximumTimeInMilliSecondsToWaitForPage>15000</MaximumTimeInMilliSecondsToWaitForPage>
+    <TimeIntervalInMilliSecondsToWaitForPage>500</TimeIntervalInMilliSecondsToWaitForPage>
+    <DownloadInCurrentDirectory>True</DownloadInCurrentDirectory>
+    <HighLightWebElement>false</HighLightWebElement>
+    <EnableSoftassertion>False</EnableSoftassertion>
+    <EnableFullScreenshot>False</EnableFullScreenshot>
+    <EnableDesktopFullScreenshot>False</EnableDesktopFullScreenshot>
+    <ToEmailAdditionalReceiverList/>
+    <SendEmailForFailurePercentage/>
+    <SubmitResultToTFS>false</SubmitResultToTFS>
+    <StoreScreenshot>false</StoreScreenshot>
+    <ToEmail/>
+    <FromEmail/>
+    <FromPassword/>
+    <LambdaTestBuild/>
+    <LambdaTestURL/>
+    <NetworkLog>False</NetworkLog>
+    <Token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU4MzksInByb2plY3RJZCI6MjgzNzQsInVzZXJOYW1lIjoiU3JlZWthbnRoIiwiYmFzZVVybCI6Imh0dHBzOi8vc3RhZ2luZy12NS5hbGdvc2hhY2submV0IiwiaWF0IjoxNzU2MjEyMTg5fQ.J2_uEmSwPCeOPc0XE_2bXthPs4393voPo2KU2XuDfOI</Token>
+    <UserName>Sreekanth</UserName>
+    <AutoHealing>True</AutoHealing>
+    <EnablePercy>yes</EnablePercy>
+    <JiraIntegration>False</JiraIntegration>
+    <JiraIntegrationParameters>JiraUrl,Username,Password,ProjectKey,IssueType,ReporterName</JiraIntegrationParameters>
+    <AzureTFSIntegration>False</AzureTFSIntegration>
+    <AzureIntegrationTFSCredentials>OrganisationName,ProjectName,PersonalAccessToken</AzureIntegrationTFSCredentials>
+    <ProfilePath/>
+    <Cookies>False</Cookies>
+    <HubURL>http://192.168.29.57:4444/wd/hub</HubURL>
+    <Type>Selenium</Type>
+    <DownloadPath/>
+    <RetryFailedTestCaseCount>1</RetryFailedTestCaseCount>
+</ApplicationSettings>

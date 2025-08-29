@@ -1,0 +1,22 @@
+[
+  {
+    "locator": "//input[@name='email']",
+    "target": "<input aria-invalid='false' id=':r2:' name='email' placeholder='Enter your email' type='text' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-15v65ck' value=''>"
+  },
+  {
+    "locator": "//input[@name='password']",
+    "target": "<input aria-invalid='false' id=':r3:' name='password' placeholder='Enter your password' type='password' class='MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-s43tfo' value=''>"
+  },
+  {
+    "locator": "//button[contains(.,'Login')]",
+    "target": "<button class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth css-15x34pt' tabindex='0' type='submit' id=':r5:'>Login</button>"
+  },
+  {
+    "locator": "//div[contains(@class,'sidebar-profile-background MuiBox-root')]",
+    "target": "<div class='sidebar-profile-background MuiBox-root css-17f83oh' open=''><div class='MuiBox-root css-x83gav' open=''><div class='MuiBox-root css-xu4juv'></div><div class='MuiBox-root css-0'><div class='MuiAvatar-root MuiAvatar-round shadow-lg css-1cputhm'><img src='/assets/male-DiDt4X89.jpg' class='MuiAvatar-img css-45do71'></div></div><div class='MuiBox-root css-y3sjyp'><div class='MuiBox-root css-i0cv2f'><div class='MuiBox-root css-1e7vvsi'>Sreekanth </div><div class='MuiBox-root css-jxq94j'>mellamputi.sreekanth@a...</div><div class='MuiBox-root css-cox7yb'><p class='MuiTypography-root MuiTypography-body1 css-aegkya'>v5.0.2</p></div></div><button class='MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall menu-icon css-1ygc3e8' tabindex='0' type='button' id=':rl:'><svg aria-hidden='true' focusable='false' data-prefix='fas' data-icon='ellipsis-vertical' class='svg-inline--fa fa-ellipsis-vertical ' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 512'><path fill='currentColor' d='M64 360a56 56 0 1 0 0 112 56 56 0 1 0 0-112zm0-160a56 56 0 1 0 0 112 56 56 0 1 0 0-112zM120 96A56 56 0 1 0 8 96a56 56 0 1 0 112 0z'></path></svg></button></div></div></div>"
+  },
+  {
+    "locator": "//span[contains(text(),'Log out')]",
+    "target": "<span>Log out</span>"
+  }
+]

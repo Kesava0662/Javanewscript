@@ -1,0 +1,17 @@
+Home Page:
+   loginPagepagetitle: "login"
+Dashboard page:
+   AlgoQADashboardlabelLabelXPATH: "//h6[contains(.,'AlgoQA Dashboard : ')]"
+Login Page:
+   EnteryouremailTextBoxXPATH: "//input[@name='email']"
+   EnteryourpasswordTextBoxXPATH: "//input[@name='password']"
+   LoginButtonButtonXPATH: "//button[contains(.,'Login')]"
+   LogintoalgoQALabelXPATH: "//h3[contains(.,'Login to')]"
+   UsersignedinsuccessfullypopupLabelXPATH: "//div[contains(@class,'MuiAlert-message')]"
+Algoshack:
+   LogoutButtonXPATH: "//span[contains(text(),'Log out')]"
+   ShowPasswordEyebuttonLabelXPATH: "//*[name()='svg'][@class='svg-inline--fa fa-eye-slash ']"
+New Feature:
+   profilemenu3dotsButtonXPATH: "//div[contains(@class,'sidebar-profile-background MuiBox-root')]"
+AlgoQA:
+   reacttourskipbuttonButtonXPATH: "//button[@class='skip_all_tour']"
